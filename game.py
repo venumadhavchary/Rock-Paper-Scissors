@@ -3,9 +3,7 @@ print(
     """ DESCRIPTION of the game - This a game where you enter a choice i.e. rock, paper, scissors.
 Then the computer will also make a choice""")
 print("Press p for playing")
-print("Press q for exiting")
 x = "p"
-y = "q"
 z = str(input("Wanna play:"))
 user_scored = 0
 comp_scored = 0
